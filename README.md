@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MahdiNajafimail
-- 👀 I’m interested in IT
-- 🌱 I’m currently learning IEEE
+- 👀 interested in IT
+- 🌱 currently learning EE
 - 📫 How to reach me t.me/mahdinajafimail
 
 <!---
